@@ -1,6 +1,6 @@
 # URL Pages
 
-[jstrieb.github.io/urlpages](http://jstrieb.github.io/urlpages)
+[doc75.github.io/urlpages](http://doc75.github.io/urlpages)
 
 ## About
 
